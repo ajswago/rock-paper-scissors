@@ -11,4 +11,7 @@
     <string name="google_status_fmt">Google User: %s</string>
     <string name="google_title_text">Google Sign In</string>
 
+    <string name="welcome_text">Welcome</string>
+    <string name="username_placeholder_text">username</string>
+
 </resources>
